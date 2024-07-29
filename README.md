@@ -12,3 +12,5 @@ Projeto Aprendendo REACT na Organização TOTI - 2024
     6.1 - Individual 
     6.2 - Pai e filho
 7 - Como funciona o style no React
+    7.1 - Atributo style e implementação
+    7.2 - Sintaxe correta ao utilizar a tag style
