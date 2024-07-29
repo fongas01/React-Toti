@@ -8,7 +8,7 @@ Projeto Aprendendo REACT na Organização TOTI - 2024
 3 - O que é e como funciona a base do React
 4 - Entender o export do JS
 5 - Renderizar com ReacrDom
-6 - Compontentização 
+6 - Componentização 
     6.1 - Individual 
     6.2 - Pai e filho
 7 - Como funciona o style no React
