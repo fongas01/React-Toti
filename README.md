@@ -13,7 +13,12 @@ Projeto Aprendendo REACT na Organização TOTI - 2024
     6.2 - Pai e filho
 7 - Como funciona o style no React
 <<<<<<< HEAD
+<<<<<<< HEAD
     7.1 - Atributo style e implementação
     7.2 - Sintaxe correta ao utilizar a tag style
 =======
 >>>>>>> f47412f0d66ac4ff8adf5a4cdee569c7579aae04
+=======
+    7.1 - Atributo style e implementação
+    7.2 - Sintaxe correta ao utilizar a tag style
+>>>>>>> 9780f4afdd54893d87d13f1081e32f8875e506b0
